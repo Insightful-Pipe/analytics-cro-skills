@@ -2,7 +2,7 @@
   "name": "insightfulpipe-analytics-cro",
   "displayName": "InsightfulPipe Analytics & CRO Skills",
   "description": "38 free Claude skills for Google Analytics 4, conversion tracking and CRO: GA4 audits and reports, UTM and attribution audits, A/B and incrementality tests, funnel drop-off, landing page, form and signup audits.",
-  "version": "2026.10.3107",
+  "version": "2026.11.119",
   "author": {
     "name": "InsightfulPipe",
     "url": "https://insightfulpipe.com"
